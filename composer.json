@@ -1,0 +1,15 @@
+{
+    "name": "mohit/bliss",
+    "autoload": {
+        "psr-4": {
+            "Mohit\\Bliss\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohit",
+            "email": "mohit@kelvin.ac.in"
+        }
+    ],
+    "require": {}
+}
